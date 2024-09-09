@@ -30,7 +30,7 @@ class _SearchState extends State<Search> {
             "https://api.pexels.com/v1/search?query=$searchQuery&per_page=40"),
         headers: {
           "authorization":
-              "gn5yfek5lXIsG9l9rCfBNfeMaFkjJVm8A6n3HnlpPPW16vjVskbJDpSP"
+              "USE_YOUR_PEXELS_API_KEY"
         }).then((value) {
       Map<String, dynamic> jsonData = jsonDecode(value.body);
       jsonData["photos"].forEach((element) {
