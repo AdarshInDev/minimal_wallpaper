@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66921631062",
+    "project_id": "minimal-walls-a7826",
+    "storage_bucket": "minimal-walls-a7826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66921631062:android:5faef9ec92b7c6d06cdaf7",
+        "android_client_info": {
+          "package_name": "com.example.minimal_wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe-aO2jWmy-DtoBuarkTLW7b2pJV7JKBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
